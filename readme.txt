@@ -1,2 +1,1 @@
-Welcome to my First Repo
-Leraning Git is going well for me so far.
+Welcome to my first repo
